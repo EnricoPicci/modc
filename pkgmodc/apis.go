@@ -3,9 +3,8 @@ package pkgmodc
 import (
 	"fmt"
 
-	"github.com/EnricoPicci/go-class-dep-mgmt-mod-c/intapis"
-
-	"github.com/EnricoPicci/go-class-dep-mgmt-mod-d/pkgmodd"
+	"github.com/EnricoPicci/modc/intapis"
+	"github.com/EnricoPicci/modd/pkgmodd"
 )
 
 func ApiThatCallsInternalApi() {
